@@ -83,5 +83,11 @@
         ]
       }
     ]
+  },
+  "seo": {
+    "llms-txt:enabled": false,
+    "sitemap:enabled": false,
+    "robots:index": false,
+    "robots:follow": false
   }
 }
